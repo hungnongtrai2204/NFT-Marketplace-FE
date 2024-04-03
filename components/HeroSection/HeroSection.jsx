@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 
 //INTERNAL IMPORT
-import Style from "./HeroSeaction.module.css";
+import Style from "./HeroSection.module.css";
 import { Button } from "../componentsindex";
 import images from "../../img";
 

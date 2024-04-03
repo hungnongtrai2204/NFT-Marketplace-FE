@@ -5,7 +5,7 @@ import { MdVerified, MdTimer } from "react-icons/md";
 import { TbArrowBigLeftLines, TbArrowBigRightLine } from "react-icons/tb";
 
 //INTERNAL IMPORT
-import Style from "./bigNFTSlider.module.css";
+import Style from "./BigNFTSilder.module.css";
 import images from "../../img";
 import Button from "../Button/Button";
 
